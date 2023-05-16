@@ -1,0 +1,14 @@
+.single-topbar {
+  margin-top: 30px;
+}
+.single-product .breadcrumb ul {
+  display: flex;
+}
+.single-product .breadcrumb ul li {
+  font-size: 12px;
+}
+.single-product .breadcrumb ul li:not(:last-child):after {
+  content: "/";
+  color: #dee0ea;
+  margin: 0 5px;
+}

@@ -1,0 +1,28 @@
+/*! global css */
+@import url(base.css);
+
+/*! layout  */
+@import url(/css/layout/header.css);
+@import url(/css/layout/footer.css);
+
+/*! components */
+@import url(components/modal-search.css);
+@import url(components/slider.css);
+@import url(components/category-item.css);
+@import url(components/product-item.css);
+@import url(components/campaign-item.css);
+@import url(components/blog-item.css);
+@import url(components/campaign-single.css);
+@import url(components/single-product/breadcrumb.css);
+@import url(components/single-product/product-item.css);
+@import url(components/single-product/product-info.css);
+@import url(components/single-product/product-tabs.css);
+@import url(components/reviews.css);
+/*! pages */
+@import url(pages/home.css);
+@import url(pages/contact.css);
+@import url(pages/account.css);
+@import url(pages/card.css);
+@import url(pages/single-product.css);
+@import url(pages/blog.css);
+@import url(pages/single-blog.css);
